@@ -6,7 +6,7 @@ Do you need to monitor your ECU Data without bringing your laptop with you all t
 
 There's a solution, and it's very cheap. I've been tinkering for years to develop this solution, wasted a lot of money on development boards all for having the BEST solution ever.
 
-Check the following youtube video to see a demo for the free version: https://youtu.be/CQPU9dfFPQw
+Check the following youtube video to see a demo for the free version: https://youtu.be/rjETbBOaq9w?is=f5A8JH6c0yH7SYUK
 
 On this video, the dashboard is receiving simulated data over CanBus. The firmware is tested and currently running on 20+ cars and it's actually bug free.
 
