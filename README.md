@@ -14,6 +14,8 @@ Here how you can do it, it's very simple, first you purchase this (if you want t
 
 https://www.waveshare.com/esp32-s3-touch-lcd-5.htm?sku=28117
 
+you need the touch version with 800*480 resolution.
+
 Get a USB Type C data cable and hook it up into your device. 
 Visit this website https://esptool.spacehuhn.com/ and connect to your device.
 
