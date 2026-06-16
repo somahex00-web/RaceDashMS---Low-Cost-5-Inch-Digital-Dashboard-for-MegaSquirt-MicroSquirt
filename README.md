@@ -12,7 +12,7 @@ On this video, the dashboard is receiving simulated data over CanBus. The firmwa
 
 Here how you can do it, it's very simple, first you purchase this (if you want to buy me a beer, purchase it through my link:
 
-https://www.waveshare.com/esp32-s3-touch-lcd-5.htm?sku=28117
+https://www.waveshare.com/esp32-s3-touch-lcd-5.htm?&aff_id=155489
 
 you need the touch version with 800*480 resolution.
 
