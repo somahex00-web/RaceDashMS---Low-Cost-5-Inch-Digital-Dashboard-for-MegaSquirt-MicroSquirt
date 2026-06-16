@@ -35,6 +35,11 @@ I've made tons of better graphics which i'm keeping for licensed use, you can ch
 
 One of the most recent version is the following: https://www.youtube.com/watch?v=xfOAbD9B4jw
 
-List of features and available backgrounds will will be available in other files of the branch.
+List of features and available backgrounds here: 
+https://github.com/somahex00-web/Megasquirt-Microsquirt-digital-dashboard-for-under-50-DIY/blob/main/Catalogue.pdf
 
-Basically, after you first flash the demo version of the device, you get an unique hardware code clicking on the bottom right corner of the screen. If you wish to purchase the paid version, you will get 1 Hardware use only, this means I will craft the firmware specifically for your board and you cannot distribuite it to other units. This is done to prevent multiple units having the same paid license.
+How to purchase:
+
+Basically, after you first flash the demo version of the device, you can get an unique license code clicking on the bottom right corner of the screen. If you wish to purchase the paid version, you need to send me license code and send me an inquiry through my website:
+https://somahex00.wixsite.com/home/contact
+what you get is your custom licensed firmware bin that will run only on your board and you cannot distribuite it to other boards. This is done to prevent multiple units having the same paid license.
