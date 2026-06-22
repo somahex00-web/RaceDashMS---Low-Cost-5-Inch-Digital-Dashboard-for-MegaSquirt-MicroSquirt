@@ -9,7 +9,7 @@ A low-cost digital racing dashboard solution for Megasquirt and Microsquirt ECUs
 Premium licensed version + 3d Printed ABS Cluster:
 
 <p align="center">
-  <img src="images/5Inch_With_3dClusterON.jpg" width="800">
+  <img src="images/3dPrintedCluster.jpg" width="800">
 </p>
 
 
